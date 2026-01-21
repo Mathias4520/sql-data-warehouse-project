@@ -37,4 +37,8 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ## License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
+---
+
+## Notion
+https://www.notion.so/Data-Warehouse-Project-2ed51667193980988c34d2ca64a10357
 
